@@ -8,9 +8,7 @@ const App = () => {
   },[])
   return <div>
     <h1>Hello Client Edit</h1>
-    <h1>Viet Nam Vo Dich!</h1>
-    <h1>Viet Nam Vo Dich!</h1>
-    <h1>Viet Nam Vo Dich!</h1>
+  
   </div>;
 };
 
