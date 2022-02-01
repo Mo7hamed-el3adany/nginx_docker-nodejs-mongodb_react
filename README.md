@@ -5,7 +5,7 @@
 ### I. Commonly used commands in docker:
   1. Build a image.    
     - `docker build -t "image-name" .`     
-    - `docker build -f "Dockerfile.dev" -t "image-name" .`       
+    - `docker build -f "Dockerfile.dev" -t "image-name" .      
 
   2. Run a container.      
     - `docker run -it --rm --name "container-name" -p 5000:5000 "image-name"`     
